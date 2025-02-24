@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">I'm Pradeep Shah from Nepal.<br><br>- 🔭 I’m working as Web Developer.<br>- 📚 I'm currently learning python<br>- ⚡ In my free time I code</h4>
+<h4 align="left">I'm Pradeep Shah from Nepal.<br><br>- 🔭 I’m working as Web Developer.<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I code</h4>
 
 ###
 
