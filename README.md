@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">I'm Pradeep Shah from Nepal.<br><br>- 🔭 I’m working as Web Developer.<br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I code</h4>
+<h4 align="left">I'm Pradeep Shah from Nepal.<br><br>- 🔭 I’m working as Web Developer.<br>- 📚 I'm currently practicing MERN Stack<br>- ⚡ In my free time I code</h4>
 
 ###
 
@@ -41,11 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  
 </div>
 
 ###
